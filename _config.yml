@@ -13,9 +13,9 @@ title                    : "LALIT / LALIT"
 title_separator          : "-"
 name                     : &name "Lalit"
 description              : &description "History research student. Resume + articles from coursework, things that fascinates me and beyond."
-url                      : https://luckylalit173-arch.github.io/LALIT
+url                      : https://LalitYadav21.github.io/LALIT
 baseurl                  : "/LALIT"
-repository               : "luckylalit173-arch/LALIT"
+repository               : "LalitYadav21/LALIT"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -39,7 +39,7 @@ author:
   
 
   # Repositories and software development
-  github           : "luckylalit173-arch"
+  github           : "LalitYadav21"
   
   # Social media
   #bluesky          : "bsky.app" # Replace this with you Bluesky username
