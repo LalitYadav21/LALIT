@@ -204,7 +204,7 @@ section h2::after {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: var(--spacing-xl);
-    align-items: center;
+    align-items: judtify;
 }
 
 .about-text h3 {
@@ -218,7 +218,6 @@ section h2::after {
     margin-bottom: var(--spacing-base);
     line-height: 1.8;
     color: var(--text-light);
-   text-align: justify;
 }
 
 .about-image {
